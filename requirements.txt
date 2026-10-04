@@ -1,0 +1,6 @@
+torch>=2.3
+gsplat>=1.5
+numpy
+pandas
+matplotlib
+pillow

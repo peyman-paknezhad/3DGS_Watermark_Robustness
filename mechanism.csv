@@ -1,0 +1,16 @@
+scene,method,carriers,carriers_pruned_by_66,change_on_pruned
+lego,GaussianMarker-style,27711,0.9621089098192054,0.9677181839942932
+lego,GuardSplat-style,138555,0.6599978347948469,0.7715482711791992
+lego,GM + importance,27711,0.0,0.0
+lego,GS + importance,47109,0.0,0.0
+lego,Robust (ours),47109,0.0,0.0
+hotdog,GaussianMarker-style,13725,0.9082695810564663,0.937188446521759
+hotdog,GuardSplat-style,68626,0.6599976685221345,0.7619444727897644
+hotdog,GM + importance,13725,0.0,0.0
+hotdog,GS + importance,23333,0.0,0.0
+hotdog,Robust (ours),23333,0.0,0.0
+ficus,GaussianMarker-style,19357,0.976907578653717,0.967284619808197
+ficus,GuardSplat-style,96788,0.6599991734512543,0.72376549243927
+ficus,GM + importance,19357,0.0,0.0
+ficus,GS + importance,32908,0.0,0.0
+ficus,Robust (ours),32908,0.0,0.0
